@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomDBExample</string>
+    <string name="enter_note_here">Enter Note here</string>
+</resources>
